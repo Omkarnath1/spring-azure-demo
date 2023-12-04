@@ -11,7 +11,7 @@ public class AzureDemoApplication {
 
 	@RequestMapping("/message")
 	public String message(){
-		return "Congrats on the AZURE DEPLOYMENT";
+		return "Congrats on the AZURE DEPLOYMENT with new changes";
 	}
 
 	public static void main(String[] args) {
